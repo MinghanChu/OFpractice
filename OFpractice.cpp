@@ -4,6 +4,7 @@
 
 using namespace std;
 //Minghan added a new line
+//new thing
 int main()
 {
     vector<string> msg {"Hello", "C++", "World", "from", "VS Code", "and the C++ extension!"};
